@@ -21,7 +21,6 @@ def task(num):
 if __name__ == '__main__':
 
     # 内核时间95%以上，主要测试cpu科学计算稳定性
-
     n = 4
     
     p = Pool(processes=n)
