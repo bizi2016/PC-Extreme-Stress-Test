@@ -8,3 +8,4 @@
 
 2023年11月25日
 - cifar10_GPU_test (GPU, VRAM)
+- XGB_GPU (GPU, VRAM)
